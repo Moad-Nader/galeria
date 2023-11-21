@@ -1,0 +1,25 @@
+body {
+		background: black;
+		background-image: url("sistem.png");
+		background-size: cover;
+}
+
+h1{
+	color: purple;
+}
+
+p{
+	border-top: dashed; border-top-color: yellowgreen;
+	border-bottom-style: dashed; border-bottom-color: orange;
+
+	color: lightseagreen;
+	font-family: georgia;
+}
+
+h2{
+	color: rebeccapurple;
+}
+
+ul{
+	color:darkcyan;
+}
